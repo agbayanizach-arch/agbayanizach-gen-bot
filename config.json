@@ -6,10 +6,10 @@
     "remove-capture-from-stock": true,
     "commands-give-cooldown": true,
 
-    "gen-channels": [1234533378],
-    "premium-gen-channels": [1234565589],
+    "gen-channels": [1557995226121895936],
+    "premium-gen-channels": [1558856426871455795],
 
-    "admin-roles": [12345644489],
+    "admin-roles": [1372949606500925492],
     "default_cooldown": 600,
     "roles": [
         {
